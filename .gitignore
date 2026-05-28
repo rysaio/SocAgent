@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -216,3 +217,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+=======
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# ENV
+.env
+
+*-test.py
+>>>>>>> 8982879 (first commit)
