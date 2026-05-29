@@ -13,3 +13,4 @@ wheels/
 .env
 
 *-test.py
+.vscode
